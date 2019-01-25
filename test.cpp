@@ -1,8 +1,8 @@
 #include <iostream>
-
 int main (){
 
 cout << "GIT CLASS" << endl ;
-return 0 ;
+cout << "We Have Commited Something" << endl ;
+return 1 ;
 
 }
